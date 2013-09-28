@@ -8,7 +8,7 @@ import android.view.Window;
 /**
  * Every Activity should extents this class
  * 
- * @Author Ryan,Lou Jiwei
+ * @Author Ryan, Lou Jiwei
  * @Create 2013-8-15 上午9:33:22
  */
 public class LJWBaseActivity extends Activity {
