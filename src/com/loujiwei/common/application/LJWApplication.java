@@ -2,7 +2,7 @@ package com.loujiwei.common.application;
 
 
 
-import com.loujiwei.common.utils.CommonLog;
+import com.loujiwei.common.customfunction.CommonLog;
 
 import android.app.Application;
 import android.util.Log;
