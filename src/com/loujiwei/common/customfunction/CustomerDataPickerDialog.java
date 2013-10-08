@@ -13,6 +13,7 @@ import android.widget.NumberPicker;
 
 /**
  * @author liujun 自定义的日期控件，只有年和月，没有日 2012-10-17 上午11:02:17
+ * @author Lou Jiwei 修改,可自定义年月日组合显示 2012-10-7 上午
  */
 public class CustomerDataPickerDialog extends DatePickerDialog {
 
